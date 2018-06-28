@@ -1,0 +1,16 @@
+{
+	"description": "A WePY project",
+	"setting": {
+		"urlCheck": false,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"appid": "wxa0a4ad655459fbd3",
+	"projectname": "score-query-front",
+	"miniprogramRoot": "./dist",
+	"libVersion": "2.0.2",
+	"condition": {}
+}
